@@ -11,6 +11,9 @@ public class Task2 {
         day=3;
         //assigned day to day 3 to see the changes on git local
         today= " Practice , pull on git local to see the changes made remotely" 
+            String Cesar; 
+        Cesar = " Good guy who works very hard":
+        
             
     }
 }
