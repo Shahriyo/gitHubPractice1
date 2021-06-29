@@ -10,10 +10,10 @@ public class Task2 {
         // trying to change the code
         day=3;
         //assigned day to day 3 to see the changes on git local
-        today= " Practice , pull on git local to see the changes made remotely" 
+        today= " Practice , pull on git local to see the changes made remotely";
             String Cesar; 
-        Cesar = " Good guy who works very hard":
-        
-            
+        Cesar = " Good guy who works very hard";
+
+        System.out.println(Cesar);
     }
 }
